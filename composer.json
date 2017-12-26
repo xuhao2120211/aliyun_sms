@@ -1,5 +1,5 @@
 {
-	"name" : "lepu/aliyun/sms",
+	"name" : "lepu/aliyun/newsms",
 	"type" : "yii2-extension",
 	"description" : "The yii2 sms api for the Yii framework Yii2中国大陆短信SDK合集",
 	"keywords" : [
