@@ -1,0 +1,30 @@
+{
+	"name" : "lepu/aliyun/sms",
+	"type" : "yii2-extension",
+	"description" : "The yii2 sms api for the Yii framework Yii2中国大陆短信SDK合集",
+	"keywords" : [
+		"yii2",
+		"sms",
+		"短信",
+		"SDK"
+	],
+	"license" : "BSD-3-Clause",
+	"support" : {
+		"issues" : "https://github.com/xuhao2120211/aliyun_sms",
+		"source" : "https://github.com/xuhao2120211/aliyun_sms"
+	},
+	"authors" : [{
+			"name" : "xuhao",
+			"email" : "xuhao2120211@163.com"
+		}
+	],
+	"require" : {
+		"yiisoft/yii2" : "*",
+		"yiisoft/yii2-httpclient" : "^2.0"
+	},
+	"autoload" : {
+		"psr-4" : {
+			"lepu\\aliyun\\sms" : ""
+		}
+	}
+}
