@@ -1,6 +1,6 @@
 <?php
 
-namespace lepu\aliyun\core\sdk\Profile;
+namespace core\sdk\Profile;
 
 interface IClientProfile
 {

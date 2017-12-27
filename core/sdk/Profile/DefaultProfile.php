@@ -1,12 +1,12 @@
 <?php
 
-namespace lepu\aliyun\core\sdk\Profile;
+namespace core\sdk\Profile;
 
-use lepu\aliyun\core\sdk\Auth\Credential;
-use lepu\aliyun\core\sdk\Auth\ShaHmac1Signer;
-use lepu\aliyun\core\sdk\Regions\ProductDomain;
-use lepu\aliyun\core\sdk\Regions\Endpoint;
-use lepu\aliyun\core\sdk\Regions\EndpointProvider;
+use core\sdk\Auth\Credential;
+use core\sdk\Auth\ShaHmac1Signer;
+use core\sdk\Regions\ProductDomain;
+use core\sdk\Regions\Endpoint;
+use core\sdk\Regions\EndpointProvider;
 
 class DefaultProfile implements IClientProfile
 {

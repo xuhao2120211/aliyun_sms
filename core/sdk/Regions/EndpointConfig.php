@@ -1,6 +1,6 @@
 <?php
 
-namespace lepu\aliyun\core\sdk\Regions;
+namespace core\sdk\Regions;
 
 class EndpointConfig {
 

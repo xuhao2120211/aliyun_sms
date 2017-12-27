@@ -1,10 +1,10 @@
 <?php
 
-namespace lepu\aliyun\core\sdk;
-use lepu\aliyun\core\sdk\Exception\ClientException;
-use lepu\aliyun\core\sdk\Exception\ServerException;
-use lepu\aliyun\core\sdk\Regions\EndpointProvider;
-use lepu\aliyun\core\sdk\Http\HttpHelper;
+namespace core\sdk;
+use core\sdk\Exception\ClientException;
+use core\sdk\Exception\ServerException;
+use core\sdk\Regions\EndpointProvider;
+use core\sdk\Http\HttpHelper;
 
 class DefaultAcsClient implements IAcsClient 
 {    

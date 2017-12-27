@@ -1,6 +1,6 @@
 <?php
 
-namespace lepu\aliyun\core\sdk\Auth;
+namespace core\sdk\Auth;
 
 class ShaHmac256Signer implements ISigner
 {

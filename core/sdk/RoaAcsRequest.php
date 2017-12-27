@@ -1,6 +1,6 @@
 <?php
 
-namespace lepu\aliyun\core\sdk;
+namespace core\sdk;
 
 abstract class RoaAcsRequest extends AcsRequest
 {

@@ -1,7 +1,7 @@
 <?php
 
-namespace lepu\aliyun\core\sdk\Http;
-use lepu\aliyun\core\sdk\Exception\ClientException;
+namespace core\sdk\Http;
+use core\sdk\Exception\ClientException;
 
 class HttpHelper
 {

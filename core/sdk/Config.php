@@ -1,8 +1,8 @@
 <?php
 
-namespace lepu\aliyun\core\sdk;
+namespace core\sdk;
 
-use lepu\aliyun\core\sdk\Regions\EndpointConfig;
+use core\sdk\Regions\EndpointConfig;
 
 //config http proxy
 define('ENABLE_HTTP_PROXY', FALSE);

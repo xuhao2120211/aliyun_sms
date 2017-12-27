@@ -1,6 +1,6 @@
 <?php
 
-namespace lepu\aliyun\core\sdk\Http;
+namespace core\sdk\Http;
 
 class HttpResponse
 {

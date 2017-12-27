@@ -1,6 +1,6 @@
 <?php
 
-namespace lepu\aliyun\core\sdk\Exception;
+namespace core\sdk\Exception;
 
 class ClientException extends \Exception
 {

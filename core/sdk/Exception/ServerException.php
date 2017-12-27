@@ -1,7 +1,7 @@
 <?php
 
 
-namespace lepu\aliyun\core\sdk\Exception;
+namespace core\sdk\Exception;
 
 class ServerException extends ClientException
 {
